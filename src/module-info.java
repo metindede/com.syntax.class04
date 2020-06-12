@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mdmac
+ *
+ */
+module JavaBasics {
+}
